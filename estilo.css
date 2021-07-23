@@ -1,0 +1,34 @@
+
+
+		body{
+			background-image: url('imagens/fundo.png'); 
+			font: 16px arial, helvetica, san-serif;
+		}
+
+		#principal{
+			width: 900px;
+		}
+		#menu{
+			
+			
+			width: 860px;
+			height: 1px;
+		}
+
+		#conteudo{
+			background: #E6E6E6;
+			width: 900px;
+			height: 400px;
+		}
+
+		.centralizar{
+			text-align: center;
+
+		}
+		a{
+			color: #4b555a;
+			text-decoration: none;
+			font-weight: bold;
+			padding: 5px;
+			font-family: courier new ;
+		}
