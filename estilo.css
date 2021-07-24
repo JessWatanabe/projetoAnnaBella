@@ -15,16 +15,43 @@
 			height: 1px;
 		}
 
-		#conteudo{
+		#conteudo1{
 			background: #E6E6E6;
 			width: 900px;
-			height: 400px;
+			height: 450px;
 		}
+
+		#conteudo2{
+			background: #E6E6E6;
+			width: 900px;
+			height: 450px;
+		}
+
+		#conteudo3{
+			background: #E6E6E6;
+			width: 900px;
+			height: 1650px;
+		}
+
+		#conteudo4{
+			background: #E6E6E6;
+			width: 900px;
+			height: 620px;
+		}
+
 
 		.centralizar{
 			text-align: center;
 
 		}
+
+		.borda{
+			border-color: white;
+			border-width: 5px;
+			border-style: outset;
+			width: 645px;
+		}
+
 		a{
 			color: #4b555a;
 			text-decoration: none;
